@@ -1,0 +1,18 @@
+{
+    "id":"magic_diable_avionics",
+    "name":"MagicLib Paintjob - Diable Avionics",
+    "author":"Tartiflette, adapted by Erudito47",	
+    "version":"1.0",
+    "description":"Skinpack from Tariflette, Nes, Nia Tahl and various other authors, adapted to MagicLib Paintjobs",
+    "gameVersion": "0.98a Any",
+    "dependencies": [
+        {
+            "id": "diableavionics",
+            "name": "Diable Avionics",
+        },
+	{ 
+		"id": "MagicLib",
+ 		"name": "MagicLib",
+	},
+    ],
+}
